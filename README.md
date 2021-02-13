@@ -1,4 +1,4 @@
-[Elyza Bleau Music Portfolio]
+# Elyza Bleau Music Portfolio
 ### Social Media
 
 Facebook: <https://www.facebook.com/elyzableaumusic>
