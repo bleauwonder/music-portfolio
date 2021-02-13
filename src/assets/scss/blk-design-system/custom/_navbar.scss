@@ -26,6 +26,12 @@
         color: $opacity-8;
       }
     }
+    .logo {
+      width: 60%;
+    }
+    .name-logo {
+      width: 80%;
+    }
   }
 
   .navbar-wrapper {
@@ -358,8 +364,7 @@
 
   .navbar-nav {
     .nav-link {
-      i.fa,
-      i.tim-icons {
+      i.fa {
         opacity: 0.5;
       }
     }
