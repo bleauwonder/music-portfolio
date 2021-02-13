@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"editor.rename.enablePreview": false,
+		"workbench.editor.enablePreview": false
+	}
+}
